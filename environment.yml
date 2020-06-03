@@ -1,0 +1,9 @@
+name: environment.yml
+channels:
+  - conda-forge
+dependencies:
+  - json
+  - numpy
+  - matplotlib
+  - pandas
+  - scipy
