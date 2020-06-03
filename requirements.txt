@@ -1,5 +1,4 @@
- json
- numpy
- matplotlib
+ numpy==1.16.*
+ matplotlib==3.*
  pandas
- scipy
+ scipy==1.3.*
