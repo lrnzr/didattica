@@ -1,2 +1,2 @@
 # Didattica
-Materiali didattici vari di matematica e fisica
+Materiali didattici prodotti per le pagine sui "modelli di diffusione dei virus".
